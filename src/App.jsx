@@ -355,7 +355,7 @@ export default function TaimourAbidWebsite() {
                 className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-gray-900"
               >
                 <img 
-                  src="/breathmasters-logo.webp" 
+                  src="/9D-Master-Logo-Footer.png" 
                   alt="Breath Masters" 
                   className="h-12 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity"
                 />
