@@ -319,7 +319,7 @@ export default function TaimourAbidWebsite() {
                 className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-white"
               >
                 <img 
-                  src="munozghezlan-logo.png" 
+                  src="/munozghezlan-logo.png" 
                   alt="Munoz Ghezlan" 
                   className="h-12 w-auto object-contain opacity-60 hover:opacity-100 transition-opacity"
                 />
@@ -331,7 +331,7 @@ export default function TaimourAbidWebsite() {
                 className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-white"
               >
                 <img 
-                  src="jewelrybox-logo.webp" 
+                  src="/jewelrybox-logo.webp" 
                   alt="Jewelrybox.ai" 
                   className="h-12 w-auto object-contain opacity-60 hover:opacity-100 transition-opacity"
                 />
@@ -343,7 +343,7 @@ export default function TaimourAbidWebsite() {
                 className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-white"
               >
                 <img 
-                  src="drd-logo.webp" 
+                  src="/drd-logo.webp" 
                   alt="DRD Law" 
                   className="h-12 w-auto object-contain opacity-60 hover:opacity-100 transition-opacity"
                 />
@@ -355,7 +355,7 @@ export default function TaimourAbidWebsite() {
                 className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-white"
               >
                 <img 
-                  src="breathmasters-logo.webp" 
+                  src="/breathmasters-logo.webp" 
                   alt="Breath Masters" 
                   className="h-12 w-auto object-contain opacity-60 hover:opacity-100 transition-opacity"
                 />
@@ -367,7 +367,7 @@ export default function TaimourAbidWebsite() {
                 className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-white"
               >
                 <img 
-                  src="smogking-logo.png" 
+                  src="/smogking-logo.png" 
                   alt="Smog King" 
                   className="h-12 w-auto object-contain opacity-60 hover:opacity-100 transition-opacity"
                 />
@@ -379,7 +379,7 @@ export default function TaimourAbidWebsite() {
                 className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-gray-900"
               >
                 <img 
-                  src="section8-logo.png" 
+                  src="/section8-logo.png" 
                   alt="Section 8 Training" 
                   className="h-12 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity"
                 />
@@ -391,7 +391,7 @@ export default function TaimourAbidWebsite() {
                 className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-gray-900"
               >
                 <img 
-                  src="donebyone-logo.png" 
+                  src="/donebyone-logo.png" 
                   alt="Done By One" 
                   className="h-12 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity"
                 />
@@ -403,7 +403,7 @@ export default function TaimourAbidWebsite() {
                 className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-gray-900"
               >
                 <img 
-                  src="fikor-logo.jpg" 
+                  src="/fikor-logo.jpg" 
                   alt="Fikor" 
                   className="h-10 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity"
                 />
