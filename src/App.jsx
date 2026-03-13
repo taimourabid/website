@@ -321,7 +321,7 @@ export default function TaimourAbidWebsite() {
                 <img 
                   src="/munozghezlan-logo.png" 
                   alt="Munoz Ghezlan" 
-                  className="h-12 w-auto object-contain grayscale opacity-70 hover:grayscale-0 hover:opacity-100 transition-all duration-300"
+                  className="h-12 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity"
                 />
               </a>
               <a 
@@ -333,7 +333,7 @@ export default function TaimourAbidWebsite() {
                 <img 
                   src="/jewelrybox-logo.webp" 
                   alt="Jewelrybox.ai" 
-                  className="h-12 w-auto object-contain grayscale opacity-70 hover:grayscale-0 hover:opacity-100 transition-all duration-300"
+                  className="h-12 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity"
                 />
               </a>
               <a 
@@ -345,7 +345,7 @@ export default function TaimourAbidWebsite() {
                 <img 
                   src="/drd-logo.webp" 
                   alt="DRD Law" 
-                  className="h-12 w-auto object-contain grayscale opacity-70 hover:grayscale-0 hover:opacity-100 transition-all duration-300"
+                  className="h-12 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity"
                 />
               </a>
               <a 
@@ -357,7 +357,7 @@ export default function TaimourAbidWebsite() {
                 <img 
                   src="/breathmasters-logo.webp" 
                   alt="Breath Masters" 
-                  className="h-12 w-auto object-contain grayscale opacity-70 hover:grayscale-0 hover:opacity-100 transition-all duration-300"
+                  className="h-12 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity"
                 />
               </a>
               <a 
@@ -369,7 +369,7 @@ export default function TaimourAbidWebsite() {
                 <img 
                   src="/smogking-logo.png" 
                   alt="Smog King" 
-                  className="h-12 w-auto object-contain grayscale opacity-70 hover:grayscale-0 hover:opacity-100 transition-all duration-300"
+                  className="h-12 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity"
                 />
               </a>
               <a 
