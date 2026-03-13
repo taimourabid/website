@@ -553,11 +553,14 @@ export default function TaimourAbidWebsite() {
               </p>
             </div>
             <div className="relative">
-              <div 
-                className="calendly-inline-widget" 
-                data-url="https://calendly.com/taimourabid/30min?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=06b6d4" 
-                style={{ minWidth: '320px', height: '600px' }}
-              />
+             <iframe 
+  src="https://calendly.com/taimourabid/30min?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=06b6d4&embed_domain=taimourabid.vercel.app&embed_type=Inline"
+  width="100%" 
+  height="600px" 
+  frameBorder="0"
+  title="Book a call"
+  style={{ minWidth: '320px' }}
+/>
             </div>
           </div>
         </div>
