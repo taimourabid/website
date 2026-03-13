@@ -316,7 +316,7 @@ export default function TaimourAbidWebsite() {
                 href="https://munozghezlan.com" 
                 target="_blank" 
                 rel="noopener noreferrer" 
-                className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-white"
+                className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-gray-900"
               >
                 <img 
                   src="/munozghezlan-logo.png" 
@@ -328,7 +328,7 @@ export default function TaimourAbidWebsite() {
                 href="https://jewelrybox.ai" 
                 target="_blank" 
                 rel="noopener noreferrer" 
-                className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-white"
+                className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-gray-900"
               >
                 <img 
                   src="/jewelrybox-logo.webp" 
@@ -340,7 +340,7 @@ export default function TaimourAbidWebsite() {
                 href="https://drdlawllc.com" 
                 target="_blank" 
                 rel="noopener noreferrer" 
-                className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-white"
+                className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-gray-900"
               >
                 <img 
                   src="/drd-logo.webp" 
@@ -352,7 +352,7 @@ export default function TaimourAbidWebsite() {
                 href="https://www.breathmasters.academy" 
                 target="_blank" 
                 rel="noopener noreferrer" 
-                className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-white"
+                className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-gray-900"
               >
                 <img 
                   src="/breathmasters-logo.webp" 
@@ -364,7 +364,7 @@ export default function TaimourAbidWebsite() {
                 href="https://smogking.net" 
                 target="_blank" 
                 rel="noopener noreferrer" 
-                className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-white"
+                className="flex items-center justify-center p-6 rounded-lg border border-gray-100 hover:border-gray-300 transition-all hover:shadow-sm bg-gray-900"
               >
                 <img 
                   src="/smogking-logo.png" 
